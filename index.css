@@ -1,0 +1,53 @@
+*{
+    margin: 0;  
+    padding: 0;
+}
+.cal-head {
+    /* height: 55px; */
+    width: 100%;
+    margin: auto;
+}
+
+input#result {
+    height: 60px;
+    width: 100%;
+    text-align: right;
+    padding-right: -1px;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 8px;
+}
+
+input.btn {
+    width: 22%;
+    height: 56px;
+    margin: 3px;
+    background: #1E2226;
+    color:#fff;
+}
+input.btn:hover {
+    background: green;
+}
+
+.card {
+    width: 306px;
+    height: 375px;
+    margin: auto;
+}
+.cal{
+    text-align: center;
+}
+#kamal{
+    background: darkorchid;
+}
+#kamal:hover{
+    background: darkslategrey;
+}
+#ano{
+    background: goldenrod;
+}
+#ano:hover{
+    background: darkslategrey;
+}
